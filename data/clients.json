@@ -1,0 +1,5 @@
+[
+  {"client_id": 1, "name": "Alice", "country": "Spain", "signup_date": "2022-03-15"},
+  {"client_id": 2, "name": "Bob", "country": "Germany", "signup_date": "2021-11-20"},
+  {"client_id": 3, "name": "Carol", "country": "France", "signup_date": "2023-01-05"}
+]

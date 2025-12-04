@@ -1,0 +1,8 @@
+sale_id,client_id,product,category,amount,date
+S1001,1,Smartphone,Electronics,699.99,2023-07-01
+S1002,2,Laptop,Electronics,1299.50,2023-07-02
+S1003,1,Headphones,Accessories,199.99,2023-07-03
+S1004,2,Keyboard,Accessories,89.99,2023-07-03
+S1005,3,Mouse,Accessories,49.99,2023-07-04
+S1006,3,Monitor,Electronics,299.99,2023-07-05
+S1007,1,Tablet,Electronics,399.99,2023-07-06
